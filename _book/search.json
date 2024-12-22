@@ -1,0 +1,62 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "DPREP",
+    "section": "",
+    "text": "Welcome",
+    "crumbs": [
+      "Welcome"
+    ]
+  },
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "1  Introduction",
+    "section": "",
+    "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Coming soon...</span>"
+    ]
+  },
+  {
+    "objectID": "summary.html",
+    "href": "summary.html",
+    "title": "2  Working",
+    "section": "",
+    "text": "In summary, this book has no content whatsoever.\n\n1 + 1\n\n[1] 2",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Coming soon...</span>"
+    ]
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
+    "crumbs": [
+      "References"
+    ]
+  },
+  {
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
+    "title": "DPREP",
+    "section": "",
+    "text": "Data Preparation and Workflow Management (dPrep)\n\nDr Hannes Datta - Tilburg University\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThis edition: January - April 2025 (328059-M3) | Next edition: August - October 2025\n\n\n\nEngineer data sets and manage research projects efficiently\nWelcome to the course website of dPrep.\nThis course teaches you to efficiently manage empirical (marketing) research projects, using tools such as R/RStudio and GitHub.\nPlease use the navigation bar and buttons below to access the course material.\n\nCOURSE SCHEDULE AND MODULES | SYLLABUS AND LEARNING OBJECTIVES | ENROLL NOW!\n\n\n\n\n\n\nWhy should you take this course?\n\n\n\nMany students and academic scholars perceive the process of doing research as rather simplistic: a bit of data cleaning here and analysis there, and you’re done. While this mostly isn’t a problem when working on small-scale projects, this approach won’t work anymore once you work on your empirical theses (e.g., for Marketing Analytics), or join an analytics-focused company.\nTherefore, in this course, you will professionalize your way-of-working. In particular, we’ll zoom in on complex, reproducible data preparation workflows (think of structured and unstructured raw data, derived from multiple sources, provided in multiple delivery batches, with lots of missing data, etc.).\nThroughout the course, you’ll be using open science principles documented at Tilburg Science Hub.",
+    "crumbs": [
+      "Welcome"
+    ]
+  },
+  {
+    "objectID": "index.html#why-should-you-take-this-course",
+    "href": "index.html#why-should-you-take-this-course",
+    "title": "DPREP",
+    "section": "Why should you take this course?",
+    "text": "Why should you take this course?\n\nMany students and academic scholars perceive the process of doing research as rather simplistic: a bit of data cleaning here and analysis there, and you’re done. While this mostly isn’t a problem when working on small-scale projects, this approach won’t work anymore once you work on your empirical theses (e.g., for Marketing Analytics), or join an analytics-focused company. Therefore, in this course, you will professionalize your way-of-working. In particular, we’ll zoom in on complex, reproducible data preparation workflows (think of structured and unstructured raw data, derived from multiple sources, provided in multiple delivery batches, with lots of missing data, etc.). Throughout the course, you’ll be using open science principles documented at Tilburg Science Hub.",
+    "crumbs": [
+      "Welcome"
+    ]
+  }
+]

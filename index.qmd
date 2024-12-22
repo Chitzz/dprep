@@ -1,0 +1,40 @@
+## Welcome {.unnumbered}
+
+### Data Preparation and Workflow Management (dPrep)
+
+
+##### Dr Hannes Datta - Tilburg University
+
+::: {layout-ncol="4"}
+![](github.png "Go to GitHub source"){width="35"}
+
+![](linkedin.png "Follow on linkedIn"){width="25"}
+
+![](share.png "Share with loved ones"){width="25"}
+
+![](twitter.png "Follow on twitter"){width="18"}
+:::
+
+[This edition: January - April 2025 (328059-M3) \| Next edition: August - October 2025]{style="color:blue;"}
+
+### Engineer data sets and manage research projects efficiently
+
+Welcome to the course website of dPrep.
+
+This course teaches you to efficiently manage empirical (marketing) research projects, using tools such as R/RStudio and GitHub.
+
+Please use the navigation bar and buttons below to access the course material.
+
+##### [COURSE SCHEDULE AND MODULES](summary.qmd) \| [SYLLABUS AND LEARNING OBJECTIVES](summary.qmd) \| [ENROLL NOW!](summary.qmd)
+
+::: callout-note
+### Why should you take this course?
+
+Many students and academic scholars perceive the process of doing research as rather simplistic: a bit of data cleaning here and analysis there, and you’re done. While this mostly isn’t a problem when working on small-scale projects, this approach won’t work anymore once you work on your empirical theses (e.g., for Marketing Analytics), or join an analytics-focused company.
+
+Therefore, in this course, you will professionalize your way-of-working. In particular, we’ll zoom in on complex, reproducible data preparation workflows (think of structured and unstructured raw data, derived from multiple sources, provided in multiple delivery batches, with lots of missing data, etc.).
+
+Throughout the course, you’ll be using open science principles documented at Tilburg Science Hub.
+:::
+
+

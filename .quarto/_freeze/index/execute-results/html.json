@@ -1,0 +1,15 @@
+{
+  "hash": "dde8719c8ad2963f21dbf6010ff72d3e",
+  "result": {
+    "engine": "knitr",
+    "markdown": "## Welcome {.unnumbered}\n\n### Data Preparation and Workflow Management (dPrep)\n\n##### Dr Hannes Datta\n\n::: {layout-ncol=\"4\"}\n\n![](github.png \"Go to GitHub source\"){width=\"35\" } \n\n![](linkedin.png \"Follow on linkedIn\"){width=\"25\"}\n\n![](share.png \"Share with loved ones\"){width=\"25\"}\n\n![](twitter.png \"Follow on twitter\"){width=\"18\"}\n\n:::\n\n*This edition: January - April 2025 (328059-M3) | Next edition: August - October 2025*\n\n### Engineer data sets and manage research projects efficiently \n\nWelcome to the course website of dPrep.\n\nThis course teaches you to efficiently manage empirical (marketing) research projects, using tools such as R/RStudio and GitHub.\n\nPlease use the navigation bar and buttons below to access the course material.\n\n\n\n\n\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n\n\n\n\n\n\n\n\n###### for more information [refer](summary.qmd) [refer](summary.qmd) [refer](summary.qmd)\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

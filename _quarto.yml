@@ -1,0 +1,37 @@
+project:
+  type: book
+  title: "DPREP"
+  
+  
+  
+book:
+
+  favicon: favicon.png
+
+  sidebar: 
+    logo: logo.png 
+    
+    text: "OPEN EDUCATION"
+
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - summary.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: lux
+    grid:
+      sidebar-width: 250px
+      body-width: 1030px
+      margin-width: 380px
+      
+  pdf:
+    documentclass: scrreprt
+
+editor: visual
+
+
